@@ -1,0 +1,4 @@
+# Comparison-of-distinct-Classification-Models
+Nowadays, social network advertising plays a significant role in the success of a business. Social network marketing or advertising allows businesses to perform targeted advertisings. Vendors try to predict whether a customer will buy the product or not based on previous purchase history. In this assignment, We picked a dataset with customers' purchase history and implemented various models to classify the customers and predict whether the user will buy a product or not. Here, I used the 'Social-network-ads' dataset from Kaggle. 
+https://www.kaggle.com/rakeshrau/social-network-ads
+I have developed 7 models to predict the online purchasing trend of individuals through different social network advertisements.  K-fold cross validation technique was introduced in the model so as to enhance the accuracy of the model and to reduce the overfitting problem.
